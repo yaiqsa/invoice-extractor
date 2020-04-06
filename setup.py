@@ -3,8 +3,10 @@
 setup(name='invoice_extractor',
       version='1.0',
       description='KPN invoice extractor',
-      long_description='A small python package to read, clean, and export table data from KPN mobile phone invoices.',
+      long_description=open('README.md').read()
       packages=['invoice_extractor'],
-      author = 'Marijn Kuypers',
-      author_email = '',
-      zip_safe=False)
+      author = 'Burathar',
+      author_email = 'burathar@gmail.com',
+      url='https://git.sciuro.org/burathar/invoice-extractor',
+      licence='GPL-3.0-only'
+      )
