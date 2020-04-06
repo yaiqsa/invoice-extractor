@@ -13,7 +13,7 @@ At this moment this package does not exist in PyPI, and has to be put into the p
 It is possible to extract the data from just one pdf file, or a directory containing compatable pdf files.
 
 ### Usage example
-```python3
+```python
 import invoice_extractor
 
 pdf_file = <somefilepath>
