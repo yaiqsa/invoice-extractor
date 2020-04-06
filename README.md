@@ -24,3 +24,6 @@ output_directory = <somepath>
 invoice_extractor.extract(pfd_file, output_directory)
 invoice_extractor.extract(pfd_directory, output_directory)
 ```
+
+
+(This repo is automatically synced from [Gitea](https://git.sciuro.org/burathar/invoice-extractor/))
